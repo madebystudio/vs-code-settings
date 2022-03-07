@@ -34,6 +34,7 @@ madeby.studio Visual Studio Code settings. This enables all developers environme
 `code --install-extension pranaygp.vscode-css-peek`   
 `code --install-extension ryannaddy.laravel-artisan`  
 `code --install-extension xdebug.php-debug`   
+`code --install-extensions stillat-llc.vscode-antlers`    
 
 ## Contributing
 
