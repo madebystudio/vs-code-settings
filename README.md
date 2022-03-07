@@ -35,7 +35,7 @@ madeby.studio Visual Studio Code settings. This enables all developers environme
 `code --install-extension ryannaddy.laravel-artisan`  
 `code --install-extension xdebug.php-debug`   
 
-## Contributing to this repo
+## Contributing
 
 To contribute to this repo, you will need to understand the basic principles of [GIT Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=What%20is%20Gitflow%3F,branches%20and%20multiple%20primary%20branches.&text=Under%20this%20model%2C%20developers%20create,until%20the%20feature%20is%20complete.). GIT Flow makes it easier and safer for multiple devs to work on a project together.
 
