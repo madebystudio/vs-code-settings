@@ -1,28 +1,5 @@
 {
-    "antlersFormatWithPrettierFirstIfAvailable": true,
-    "antlersLanguageServer.formatFrontMatter": true,
-    "auto-close-tag.activationOnLanguage": [
-    
-        "xml",
-        "php",
-        "blade",
-        "ejs",
-        "jinja",
-        "javascript",
-        "javascriptreact",
-        "typescript",
-        "typescriptreact",
-        "plaintext",
-        "markdown",
-        "vue",
-        "liquid",
-        "erb",
-        "lang-cfml",
-        "cfml",
-        "HTML (EEx)",
-        "HTML (Eex)",
-        "plist"
-    ],
+
     "editor.tabSize": 4,
     "prettier.tabWidth": 4,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
